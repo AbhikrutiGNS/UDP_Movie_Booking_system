@@ -35,12 +35,12 @@ A lightweight and efficient **UDP-based event booking system** built using **Pyt
 
 ##  Screenshots
 ###  filling in details
-![filling in details](screenshots/udp1.png)
+![filling in details](screenshots/udp1.jpg)
 ###  Successful Booking  
-![Successful Booking](screenshots/udp2.png)
+![Successful Booking](screenshots/udp2.jpg)
 
 ###  Booking Failure (Overbooked)  
-![Booking Failure](screenshots/udp4.png)
+![Booking Failure](screenshots/udp4.jpg)
 
 ###  Database Management (Seats Reduced)  
-![Seat Reduction](screenshots/udp3.png)
+![Seat Reduction](screenshots/udp3.jpg)
