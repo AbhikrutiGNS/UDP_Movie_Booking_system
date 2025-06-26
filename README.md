@@ -1,4 +1,4 @@
-# UDP based movie booking system
+# UDP Event booking system
 
 A lightweight and efficient **UDP-based event booking system** built using **Python**, **Tkinter**, and **SQLite3**. This project was developed to demonstrate the use of **socket programming** for real-time booking scenarios.
 
