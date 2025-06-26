@@ -34,14 +34,13 @@ A lightweight and efficient **UDP-based event booking system** built using **Pyt
 ---
 
 ##  Screenshots
-
-> *(Add images to a `screenshots/` folder and use correct paths)*
-
+###  filling in details
+![filling in details](screenshots/udp1.png)
 ###  Successful Booking  
-![Successful Booking](screenshots/successful_booking.png)
+![Successful Booking](screenshots/udp2.png)
 
 ###  Booking Failure (Overbooked)  
-![Booking Failure](screenshots/booking_failure.png)
+![Booking Failure](screenshots/udp4.png)
 
 ###  Database Management (Seats Reduced)  
-![Seat Reduction](screenshots/seats_decrease.png)
+![Seat Reduction](screenshots/udp3.png)
